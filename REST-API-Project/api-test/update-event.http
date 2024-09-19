@@ -1,0 +1,10 @@
+PUT http://localhost:4406/events/1
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QzQGV4YW1wbGUuY29tIiwiZXhwIjoxNzI2NjY1OTkxLCJ1c2VySWQiOjN9.AedlTcSyngh4FmCLQgIu5Ldyfk_MkC5wfDtEMKQM1pw
+
+{
+    "name" : "Updated test event",
+    "description": "A test event",
+    "location": "Test location (Updated)",
+    "datetime": "2025-03-06T14:15:00.000Z"
+}

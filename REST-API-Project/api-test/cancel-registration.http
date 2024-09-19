@@ -1,0 +1,2 @@
+DELETE http://localhost:4406/events/1/register
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QyQGV4YW1wbGUuY29tIiwiZXhwIjoxNzI2NzY3NTA0LCJ1c2VySWQiOjJ9.hb_fhrdD-fe8dY3OJf5KHiJLiZai8tajWTm_btwjLZ0
